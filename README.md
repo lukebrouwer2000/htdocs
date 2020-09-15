@@ -7,6 +7,9 @@
 
 Contains main, projects and contact list.
 
+### LANDING
 ![Landing page website](READMEfiles/Landing.png)
 
+### CONTACT
+![Contact page website](READMEfiles/Contact.png)
 
