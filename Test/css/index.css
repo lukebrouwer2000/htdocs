@@ -584,13 +584,16 @@ pre code {
     max-width: 1140px;
   }
 }
-.row {
+.row{
   display: flex;
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
 }
 
+.pictureofme, .iframeb {
+  border: 5px solid white;
+}
 .no-gutters {
   margin-right: 0;
   margin-left: 0;
