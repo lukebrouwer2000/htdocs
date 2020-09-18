@@ -15,7 +15,7 @@ Website template taken from Bootstrap, repurposed for project. contains three fo
 Should be accessible for all browsers and many fonts. 
 
 
-// this section is for github
+[//]: # "Comment"
 ### LANDING
 ![Landing page website](READMEfiles/Landing.png)
 
